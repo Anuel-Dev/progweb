@@ -1,0 +1,41 @@
+body {
+  background-color: red;
+  font-family: Impact, fantasy;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 0.1em 0.1em 0.05em #333
+  
+}
+
+p {
+
+ text-align: center;
+  font-size: 2rem;
+  text-shadow: 0.1em 0.1em 0.2em black
+
+}
+
+p.intro {
+	text-align: center;
+  color: hsl(35, 100%, 50%);
+  text-shadow: 0.1em 0.1em 0.05em #333
+}
+
+summary {
+  font-size: 4rem;
+}
+
+span.par {
+
+  background-color: white;
+
+}
+
+span.impar {
+	
+  background-color:white;
+}
